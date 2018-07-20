@@ -1,0 +1,11 @@
+ec2_keypair:            "key"
+ec2_security_group:     "SG_ID"
+ec2_instance_type:      "t2.micro"
+ec2_image:              "AMI_ID"
+ec2_subnet_ids:         ['subnet1','subnet2']
+ec2_assign_public_ip:   "no"
+ec2_region:             "us-east-2"
+ec2_tag_Name:           "t-name"
+ec2_tag_Type:           "t-type"
+ec2_tag_Environment:    "env"
+ec2_volume_size:        16
